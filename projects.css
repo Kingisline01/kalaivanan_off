@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+h1{
+    background: linear-gradient(to right, purple, blue);
+    padding-top:30px ;
+    text-align: center;
+    font-size: 2rem;
+    width: 400px auto;
+}
+
+h2{
+    text-align: center;
+    padding-top: 40px;
+    margin-left: 30px;
+    font-size: 2rem;
+}
+
+
+a{
+    text-align: center;
+    text-decoration: none;
+    padding-top: 40px;
+    margin-left: 750px;
+    font-size: 2rem;
+    color: purple;
+    
+}
+
+a:hover{
+    color: blue;
+}
